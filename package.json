@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Uma Api feita em Node.Js utilizando a framework express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizHenrique000/API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizHenrique000/API/issues"
+  },
+  "homepage": "https://github.com/LuizHenrique000/API#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
